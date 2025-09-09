@@ -1,6 +1,6 @@
 # 🧠 AI Agent Portfolio
 
-Welcome to my AI Agent Portfolio! I'm Mayank Agarwal, a Product Leader at Commonwealth Bank of Australia with 19 years of experience in enterprise-scale product development, specializing in AI/GenAI, cloud transformation, and data products. I've created a comprehensive suite of AI agents designed to streamline workflows, enhance productivity, and solve real-world business challenges.
+Welcome to my AI Agent Portfolio! I'm Mayank Agarwal, a Product Leader with 19 years of experience in enterprise-scale product development, specializing in AI/GenAI, cloud transformation, and data products. I've created a comprehensive suite of AI agents designed to streamline workflows, enhance productivity, and solve real-world business challenges.
 
 ---
 
@@ -270,5 +270,3 @@ Let's connect and explore how AI can accelerate your business goals!
 
 ---
 
-*Based in Sydney, Australia | Product Leader @ Commonwealth Bank of Australia*
-```
