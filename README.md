@@ -1,10 +1,10 @@
 # 🧠 AI Agent Portfolio
 
-Welcome to my AI Agent Portfolio! I'm Mayank Agarwal, a Product Leader with 19 years of experience in enterprise-scale product development, specializing in AI/GenAI, cloud transformation, and data products. I've created a comprehensive suite of AI agents designed to streamline workflows, enhance productivity, and solve real-world business challenges.
+Welcome to my AI Agent Portfolio! I'm Mayank Agarwal, a Product Leader with 19 years of experience in enterprise-scale product development, specializing in AI Agents, GenAI, cloud transformation, and data products. I've created a comprehensive suite of AI agents designed to streamline workflows, enhance productivity, and solve real-world business challenges.
 
 ---
 
-- **AI/GenAI Product Development** - Building enterprise-scale AI solutions
+- **AI Agents & GenAI Product Development** - Building enterprise-scale AI solutions
 - **Cloud Transformation** - Leading large-scale SaaS implementations  
 - **Data Products** - Real-time streaming analytics and visualization platforms
 - **Team Leadership** - Mentoring high-performing teams and driving agile transformations
